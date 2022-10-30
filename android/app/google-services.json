@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59840699175",
+    "project_id": "trivia-d3a66",
+    "storage_bucket": "trivia-d3a66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59840699175:android:1006842bae373903862702",
+        "android_client_info": {
+          "package_name": "com.triviaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59840699175-eq54g0v7e36c8vbrpph21mgmeg0qelr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApLqLhPp7nXoSGXPksX1wYyAYD1byMxl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59840699175-eq54g0v7e36c8vbrpph21mgmeg0qelr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
